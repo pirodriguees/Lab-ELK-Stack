@@ -55,6 +55,6 @@ $ filebeat setup -e #configure dashboard of module.
 
 ## References: ##
 - [Full Cycle](https://www.youtube.com/watch?v=Bb3g8xk0Cys)
-- [Eduardo_Neves]("https://www.youtube.com/channel/UCPS3_RjG-FzAEPp0ntXpODA")
+- [Eduardo_Neves](https://www.youtube.com/channel/UCPS3_RjG-FzAEPp0ntXpODA)
 - [Logz.io](https://logz.io/learn/complete-guide-elk-stack/)
 - [ELK-Doc](https://www.elastic.co/guide/index.html)
