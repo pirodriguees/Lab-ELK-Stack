@@ -1,5 +1,8 @@
 # Lab for learn ELK Stack.
 
+[![Build](https://img.shields.io/badge/Running%20OS-Linux-orange)]()
+[![Build](https://img.shields.io/badge/Elastic%20Versions-7.8-orange)]()
+
 This repository was create to learn more about logging monitoring and elastic stack.
 The ELK Stack are great tools for centralize logs of machines.
 
