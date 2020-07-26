@@ -1,0 +1,16 @@
+winlogbeat.event_logs:
+  - name: Application
+  - name: Security
+  - name: System
+
+output.elasticsearch:
+  hosts:
+    - localhost:9200
+
+logging.to_files: true
+logging.files:
+  path: C:\ProgramData\winlogbeat\Logs
+logging.level: info
+
+setup.kibana:
+  host: "mykibanahost:5601"
